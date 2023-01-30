@@ -1,2 +1,2 @@
-# NoteApp<room database>
+# room database
 <recyclerview>
